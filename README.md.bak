@@ -20,8 +20,7 @@ The project supports several types of operations:
 
 * **Script Mode**: This mode allows loading and executing scripts on the controller. A file can be sent to the controller, and it will execute the commands defined in the file. The PC displays the controller's output during script execution.
 
-## Hardware Connections
-
+Hardware Connections
 The following hardware connections are used in the project:
 
 * Buttons:
@@ -31,10 +30,12 @@ The following hardware connections are used in the project:
   * GG7 → P2.2 → C1
   * BBB6 → P2.1 → C0
 * Motor Phases:
-  * IN1 → C11
-  * IN2 → C10
-  * IN3 → C6
-  * IN4 → C5
-* Joystick:
-  * VRy → E22
-  * VRx → E20
+
+IN1 → C11
+IN2 → C10
+IN3 → C6
+IN4 → C5
+Joystick:
+
+VRx → E20
+VRy → E22
