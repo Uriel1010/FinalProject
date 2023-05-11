@@ -38,3 +38,14 @@ The following hardware connections are used in the project:
 * Joystick:
   * VRy → E22
   * VRx → E20
+  
+## Conclusion and Proposed Improvements
+
+During the project, we faced challenges related to understanding the calibration process of the ADC module and the possibility of sampling from two legs. Further exploration and experimentation are needed to fully understand and utilize these features.
+
+To improve the project, we recommend considering the following:
+
+* Explore advanced motor control algorithms, such as PID control, to enhance motor movement precision.
+* Implement error handling and recovery mechanisms in case of communication or execution failures.
+* Optimize the memory usage on the controller to accommodate larger files or increase storage capacity if necessary.
+* Enhance the user interface with additional features and visualizations.
